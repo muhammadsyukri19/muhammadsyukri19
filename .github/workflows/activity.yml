@@ -1,0 +1,40 @@
+# =============================================================
+# Recent GitHub Activity Auto-Updater
+# Updates the "Recent Activity" section in README.md
+# Runs every 30 minutes and on push to main
+# =============================================================
+
+name: ⚡ Update Recent Activity
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-activity:
+    name: Update GitHub Activity in README
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Fetch and inject recent GitHub activity into README
+      # This updates the section between:
+      # <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
+      - name: Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ chore: update recent activity [automated]"
+          MAX_LINES: 10           # Number of recent activity items to show
+          USERNAME: muhammadsyukri19
+          TARGET_FILE: README.md  # Target file to update
