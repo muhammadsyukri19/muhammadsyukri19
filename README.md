@@ -1,22 +1,11 @@
-<!-- ============================================================ -->
-<!--                        HEADER BANNER                         -->
-<!-- Capsule Render: https://github.com/kyechan99/capsule-render  -->
-<!-- ============================================================ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Syukri&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Informatika%20Student&descAlignY=58&descSize=18&animation=fadeIn" alt="Header Banner" width="100%"/>
 </p>
 
-<!-- ============================================================ -->
-<!--            TYPING ANIMATION (auto-update via SVG)            -->
-<!-- Edit teks: https://readme-typing-svg.demolab.com/demo/       -->
-<!-- ============================================================ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Syukri+%F0%9F%91%8B;Informatika+Student+%40+USK;Software+Engineer+in+Progress+%F0%9F%9A%80;AI+%7C+Web+Dev+%7C+Data+Science+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<!-- ============================================================ -->
-<!--     VISITOR COUNTER & FOLLOWERS (live badge dari shields)    -->
-<!-- ============================================================ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadsyukri19&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
   &nbsp;
@@ -27,10 +16,6 @@
 
 ---
 
-<!-- ============================================================ -->
-<!--                    ABOUT ME (YAML style)                     -->
-<!-- Edit bagian ini sesuai info Anda                             -->
-<!-- ============================================================ -->
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -51,10 +36,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--                        TECH STACK                            -->
-<!-- skillicons.dev diupdate otomatis saat icon set berubah       -->
-<!-- ============================================================ -->
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -103,10 +84,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--   GITHUB STATS (live dari github-readme-stats — real-time)  -->
-<!-- Theme options: tokyonight, radical, merko, gruvbox, dracula  -->
-<!-- ============================================================ -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -115,20 +92,12 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyukri19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="195"/>
 </p>
 
-<!-- ============================================================ -->
-<!--     STREAK STATS (live — menghitung streak harian otomatis)  -->
-<!-- ============================================================ -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muhammadsyukri19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<!-- ============================================================ -->
-<!--   SNAKE ANIMATION (di-generate GitHub Actions tiap hari)     -->
-<!-- Workflow: .github/workflows/snake.yml                        -->
-<!-- Output: dist/snake-dark.svg (auto-committed oleh Action)     -->
-<!-- ============================================================ -->
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -141,9 +110,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--   ACTIVITY GRAPH (live — menampilkan kontribusi 30 hari ini) -->
-<!-- ============================================================ -->
 ## 📈 Activity Graph
 
 <p align="center">
@@ -152,32 +118,18 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--   RECENT ACTIVITY (di-update GitHub Actions tiap 30 menit)  -->
-<!-- Workflow: .github/workflows/activity.yml                     -->
-<!-- Bagian di bawah ini JANGAN diedit manual — di-overwrite      -->
-<!-- oleh action secara otomatis                                  -->
-<!-- ============================================================ -->
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-> 🔄 *Activity section will be automatically updated by GitHub Actions...*
-> 
-> Make sure to push this repo to GitHub and enable the workflow!
+> 🔄 *Activity will be auto-updated by GitHub Actions after you push this repo.*
 <!--END_SECTION:activity-->
 
 ---
 
-<!-- ============================================================ -->
-<!--                    FEATURED PROJECTS                         -->
-<!-- Ganti URL repo dan deskripsi sesuai proyek nyata Anda        -->
-<!-- Pin repo terbaik Anda di halaman profil GitHub!              -->
-<!-- ============================================================ -->
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <!-- PROJECT 1: ElaeisBerkelana -->
     <td width="50%" valign="top">
       <h3>🌴 ElaeisBerkelana</h3>
       <p>Platform web manajemen konten untuk mempromosikan wisata kelapa sawit lokal. Mendukung unggah gambar via Cloudinary dan desain responsif.</p>
@@ -191,7 +143,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/2025-Community%20Web-667eea?style=flat-square" alt="2025"/>
     </td>
-    <!-- PROJECT 2: MilanoSport -->
     <td width="50%" valign="top">
       <h3>⚽ MilanoSport</h3>
       <p>Platform reservasi lapangan olahraga online (futsal, badminton, mini-soccer) dengan fitur pemesanan, pembayaran, dan panel admin.</p>
@@ -207,7 +158,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
     </td>
   </tr>
   <tr>
-    <!-- PROJECT 3: TrashID -->
     <td width="50%" valign="top">
       <h3>♻️ TrashID</h3>
       <p>Sistem klasifikasi dan pelaporan sampah berbasis web. Pengguna dapat mengidentifikasi jenis sampah dan menemukan TPS terdekat menggunakan ML.</p>
@@ -220,7 +170,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
       &nbsp;&nbsp;
       <img src="https://img.shields.io/badge/2026-AI%20%2B%20Web-00b894?style=flat-square" alt="2026"/>
     </td>
-    <!-- PROJECT 4: Sistem Relawan PMI -->
     <td width="50%" valign="top">
       <h3>🔴 Sistem Relawan PMI</h3>
       <p>Aplikasi manajemen relawan PMI berbasis web — pendaftaran, penugasan kegiatan, dan manajemen KTA relawan.</p>
@@ -238,10 +187,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--               EXPERIENCE & ORGANIZATIONS                     -->
-<!-- Edit tabel ini sesuai pengalaman Anda                        -->
-<!-- ============================================================ -->
 ## 🏆 Experience & Organizations
 
 | 🗓️ Period | 🏢 Organization / Role | 📌 Description |
@@ -255,9 +200,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--                    ACHIEVEMENTS / CERTIFICATIONS             -->
-<!-- ============================================================ -->
 ## 🎖️ Achievements
 
 - 👨‍🏫 **Asisten Laboratorium** — Mata kuliah Human-Computer Interaction (HCI), Universitas Syiah Kuala (2025–2026)
@@ -269,9 +211,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--          RANDOM DEV QUOTE (di-generate random setiap load)  -->
-<!-- ============================================================ -->
 ## 💬 Dev Quote of the Day
 
 <p align="center">
@@ -280,10 +219,6 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--                    CONTACT / CONNECT                         -->
-<!-- Ganti URL sesuai profil sosial Anda                          -->
-<!-- ============================================================ -->
 ## 📬 Connect with Me
 
 <p align="center">
@@ -314,15 +249,11 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 
 ---
 
-<!-- ============================================================ -->
-<!--                        FOOTER BANNER                         -->
-<!-- ============================================================ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" alt="Footer Banner" width="100%"/>
 </p>
 
 <p align="center">
   <em>⭐ Star my repositories if you find them useful!</em><br/>
-  <!-- Last updated badge — di-refresh otomatis tiap Actions jalan -->
   <img src="https://img.shields.io/badge/Last%20Updated-auto%20by%20Actions-667eea?style=flat-square&logo=github-actions&logoColor=white" alt="Last Updated"/>
 </p>
