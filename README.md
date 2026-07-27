@@ -121,7 +121,9 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-> 🔄 *Activity will be auto-updated by GitHub Actions after you push this repo.*
+> 🔄 *Activity section will be automatically updated by GitHub Actions...*
+> 
+> Make sure to push this repo to GitHub and enable the workflow!
 <!--END_SECTION:activity-->
 
 ---
