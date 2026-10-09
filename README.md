@@ -121,9 +121,9 @@ Location    : Aceh Besar, Aceh, Indonesia 🇮🇩
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/muhammadsyukri19/MicroJourney/pull/9) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
-2. 💪 Opened PR [#9](https://github.com/muhammadsyukri19/MicroJourney/pull/9) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
-3. ℹ️ Assigned PR [#9](https://github.com/muhammadsyukri19/MicroJourney/pull/9) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
+1. 🎉 Merged PR [#10](https://github.com/muhammadsyukri19/MicroJourney/pull/10) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
+2. 💪 Opened PR [#10](https://github.com/muhammadsyukri19/MicroJourney/pull/10) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
+3. ℹ️ Assigned PR [#10](https://github.com/muhammadsyukri19/MicroJourney/pull/10) in [muhammadsyukri19/MicroJourney](https://github.com/muhammadsyukri19/MicroJourney)
 <!--END_SECTION:activity-->
 
 ---
